@@ -1,0 +1,6 @@
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\bin\Release\SwarmConsole.exe.config
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\bin\Release\SwarmConsole.exe
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\bin\Release\SwarmConsole.pdb
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\obj\Release\SwarmConsole.csproj.CoreCompileInputs.cache
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\obj\Release\SwarmConsole.exe
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\obj\Release\SwarmConsole.pdb

@@ -1,0 +1,14 @@
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\bin\Debug\SwarmConsole.exe.config
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\bin\Debug\SwarmConsole.exe
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\bin\Debug\SwarmConsole.pdb
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\obj\Debug\SwarmConsole.csproj.AssemblyReference.cache
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\obj\Debug\SwarmConsole.csproj.CoreCompileInputs.cache
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\obj\Debug\SwarmConsole.exe
+C:\Dev\Swarm\SwarmConsole\SwarmConsole\obj\Debug\SwarmConsole.pdb
+D:\Dev\swarm\SwarmConsole\SwarmConsole\bin\Debug\SwarmConsole.exe.config
+D:\Dev\swarm\SwarmConsole\SwarmConsole\bin\Debug\SwarmConsole.exe
+D:\Dev\swarm\SwarmConsole\SwarmConsole\bin\Debug\SwarmConsole.pdb
+D:\Dev\swarm\SwarmConsole\SwarmConsole\obj\Debug\SwarmConsole.csprojAssemblyReference.cache
+D:\Dev\swarm\SwarmConsole\SwarmConsole\obj\Debug\SwarmConsole.csproj.CoreCompileInputs.cache
+D:\Dev\swarm\SwarmConsole\SwarmConsole\obj\Debug\SwarmConsole.exe
+D:\Dev\swarm\SwarmConsole\SwarmConsole\obj\Debug\SwarmConsole.pdb
